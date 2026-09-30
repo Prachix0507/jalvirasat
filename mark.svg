@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Jal Virasat step-and-water mark</title>
+  <rect width="512" height="512" fill="#163E3A"/>
+  <path d="M102 104h104v92h96v92h106" fill="none" stroke="#E6D8BE" stroke-width="34" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M102 104v112h104v92h96v92h106" fill="none" stroke="#B85B42" stroke-width="17" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M248 348c23-17 43-17 66 0s43 17 66 0" fill="none" stroke="#A9C7B9" stroke-width="18" stroke-linecap="round"/>
+</svg>
